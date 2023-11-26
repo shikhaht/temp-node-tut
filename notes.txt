@@ -1,0 +1,39 @@
+* what is node js?
+-node js is an environment used to run js outside the browser.
+-built on chrome's V8 js engine
+-big community
+-fullstack
+
+
+
+* pre-requisite?
+- HTML, CSS, JS, ES6, callbacks , promises, aysnc-await.
+ 
+
+
+
+* whats the difference between browser and node js?
+- BROWSER has:                  
+1- DOM
+2- Window
+3- Interactive Apps
+4- No file system
+5- Fragmentations
+6- ES6 Modules
+
+
+- Node js has:
+1- No DOM
+2- No window
+3- Server Side Apps
+4- Filesystem
+5- Versions
+6- Common JS
+
+
+
+* BUILT IN Modules
+-OS
+-PATH
+-FS
+-HTTP
